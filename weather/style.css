@@ -1,0 +1,16 @@
+.weather-container {
+  text-align: center;
+  padding: 20px;
+}
+
+#weatherResult {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+body {
+  background-color: #353434;
+  color: azure;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
